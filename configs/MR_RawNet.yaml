@@ -1,0 +1,12 @@
+model: MR_RawNet
+nOut: 256
+max_frames: 300
+batch_size: 40
+eval_frames: 0
+trainfunc: aamsoftmax
+lr_decay: 0.95
+weight_decay: 5e-05
+max_seg_per_spk: 500
+augment: True
+save_path: exps/MR_RawNet
+eval_frames_for_short: 500,200,100
