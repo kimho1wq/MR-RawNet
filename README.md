@@ -3,8 +3,7 @@
 This repository contains official pytorch implementation and pre-trained models for following paper:
   - Title : MR-RawNet: Speaker verification system with multiple temporal resolutions for variable duration utterances using raw waveforms
   - Autor : Seung-bin Kim, Chan-yeong Lim, Jungwoo Heo, Ju-ho Kim, Hyun-seo Shin, Kyo-Won Koo and Ha-Jin Yu
-
-This paper has been accepted at [Interspeech 2024](https://interspeech2024.org/) and is available [here](https://arxiv.org/pdf/2406.07103).
+  - Comments : this paper has been accepted at [Interspeech 2024](https://interspeech2024.org/) and is available [here](https://arxiv.org/pdf/2406.07103).
 
 # Abstract
 ![overall](https://github.com/kimho1wq/TIL/assets/15611500/d9bbd1b9-da57-435d-aebf-2ee148912cd3)
